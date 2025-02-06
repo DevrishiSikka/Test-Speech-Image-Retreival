@@ -1,7 +1,4 @@
-Here is the updated `README.md` without the **File Structure** section:
-
 ---
-
 # Speech to Text, Text to Speech, and Image Generation Pipeline
 
 This project allows you to automate the process of converting text to speech (TTS), speech to text (STT), and generate images from text using Stable Diffusion. The pipeline processes multiple prompts stored in an Excel file, generating results in separate folders.
